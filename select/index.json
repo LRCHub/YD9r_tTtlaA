@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "小幸運(我的少女時代電影主題曲)",
+  "base_artist": "田馥甄",
+  "createdAt": "2025-12-28T15:05:06.328598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小幸運(我的少女時代電影主題曲)",
+      "artist": "田馥甄",
+      "has_synced": true,
+      "path": "select/01_小幸運(我的少女時代電影主題曲)_田馥甄.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小幸運",
+      "artist": "Hebe Tien",
+      "has_synced": false,
+      "path": "select/pl_01_小幸運_Hebe_Tien.txt"
+    }
+  ]
+}
